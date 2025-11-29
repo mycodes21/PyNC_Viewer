@@ -1,0 +1,8 @@
+{
+    "machine_size_x": 300.0,
+    "machine_size_y": 200.0,
+    "machine_size_z": 100.0,
+    "rapid_feed": 3000.0,
+    "default_tool_dia": 10.0,
+    "theme": "light"
+}
