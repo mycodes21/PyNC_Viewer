@@ -3,7 +3,8 @@
 A modern, open-source **G-Code Viewer and Simulator** for CNC machines, written in Python.
 Designed for engineers, machinists, and hobbyists who need a fast, lightweight tool to visualize, analyze, and edit G-Code.
 
-![Screenshot](https://via.placeholder.com/800x450?text=PyNC+Viewer+Screenshot)
+<img width="602" height="858" alt="image" src="https://github.com/user-attachments/assets/1ef25e00-7451-4e58-bf1b-3216cdbfd01f" />
+
 
 ## ✨ Key Features
 
