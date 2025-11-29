@@ -85,7 +85,7 @@ class WelcomeDialog(QDialog):
 
     def open_donation(self):
         # --- OVDE STAVI SVOJ LINK ---
-        url = QUrl("https://www.buymeacoffee.com/tvoj_username") 
+        url = QUrl("https://buymeacoffee.com/mycodes21") 
         QDesktopServices.openUrl(url)
 
 # --- SCAN RESULT DIALOG ---
