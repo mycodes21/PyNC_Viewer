@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Enjoying the tool?** [☕ Buy me a Coffee](https://www.buymeacoffee.com/tvoj_username)
+**Enjoying the tool?** [☕ Buy me a Coffee](https://buymeacoffee.com/mycodes21)
